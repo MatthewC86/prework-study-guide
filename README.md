@@ -1,7 +1,4 @@
 # prework-study-guide
-
-
-# prework-study-guide
 A study guide for pre-work
 
 # Prework Study Guide Webpage
